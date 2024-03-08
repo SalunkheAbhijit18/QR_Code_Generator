@@ -13,6 +13,6 @@ HOW TO USE:
 4. The QR Code will be generated.
 
 LANGUAGES USED:
- HTML5
- CSS
- JavaScript 
+ //>HTML5
+ //>CSS
+ //>JavaScript 
