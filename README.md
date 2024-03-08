@@ -13,4 +13,4 @@ HOW TO USE:
 4. The QR Code will be generated.
 
 LANGUAGES USED:
- (https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
