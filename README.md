@@ -13,6 +13,4 @@ HOW TO USE:
 4. The QR Code will be generated.
 
 LANGUAGES USED:
- //>HTML5
- //>CSS
- //>JavaScript 
+ (https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
